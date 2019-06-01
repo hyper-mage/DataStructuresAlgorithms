@@ -1,0 +1,113 @@
+"C:\Users\56kbps\Desktop\Spring2019stuff\CS 5343\HW\HW6\cmake-build-debug\HW6.exe"
+index = 25
+current load factor is 0.0322581
+index = 11
+current load factor is 0.0645161
+index = 1
+current load factor is 0.0967742
+index = 26
+current load factor is 0.129032
+index = 30
+current load factor is 0.16129
+index = 9
+current load factor is 0.193548
+index = 9
+Total leaps for magenta is 2 and current collisions is 1
+current load factor is 0.225806
+index = 23
+current load factor is 0.258065
+index = 2
+current load factor is 0.290323
+index = 25
+Total leaps for Sniff is 3 and current collisions is 3
+current load factor is 0.322581
+index = 2
+Total leaps for minute is 2 and current collisions is 4
+current load factor is 0.354839
+index = 9
+Total leaps for Freezing is 3 and current collisions is 6
+current load factor is 0.387097
+index = 16
+current load factor is 0.419355
+index = 26
+Total leaps for Act is 2 and current collisions is 7
+current load factor is 0.451613
+index = 9
+Total leaps for ziP Per is 4 and current collisions is 10
+current load factor is 0.483871
+index = 27
+Total leaps for Sister is 2 and current collisions is 11
+current load factor is 0.516129
+Resizing table from 31 to 67.
+index = 48
+current load factor is 0.0149254
+index = 0
+current load factor is 0.0298507
+index = 12
+current load factor is 0.0447761
+index = 3
+current load factor is 0.0597015
+index = 10
+current load factor is 0.0746269
+index = 27
+current load factor is 0.0895522
+index = 49
+current load factor is 0.104478
+index = 52
+current load factor is 0.119403
+index = 29
+current load factor is 0.134328
+index = 66
+current load factor is 0.149254
+index = 40
+current load factor is 0.164179
+index = 55
+current load factor is 0.179104
+index = 13
+current load factor is 0.19403
+index = 50
+current load factor is 0.208955
+index = 18
+current load factor is 0.223881
+index = 13
+Total leaps for HolyMoly is 2 and current collisions is 12
+current load factor is 0.238806
+index = 3
+Total leaps for better is 2 and current collisions is 13
+current load factor is 0.253731
+index = 64
+current load factor is 0.268657
+index = 18
+Total leaps for surpass is 2 and current collisions is 14
+current load factor is 0.283582
+index = 14
+Total leaps for Consign is 2 and current collisions is 15
+current load factor is 0.298507
+HashTable Contents with:
+15 collisions
+1 rehashes
+0.298507 final load factor
+67 final table size
+--------------------
+burst
+Opposite
+better
+magenta
+minute
+Act
+HolyMoly
+Consign
+Sniff
+surpass
+Grip
+ziP Per
+lucky
+ykcul
+Freezing
+Sister
+nebulous
+Carry
+Re Use
+Lace
+
+Process finished with exit code 0
