@@ -1,14 +1,14 @@
 // Assignment 6
 // Matthew Lynn
 // IDE: CLion by Jet Brains
-//Implement Hash table.
-//Pick 20 random words. Each word must be of different lengths, maximum length 8 and minimum length 3.
-//The words will be of letters a-zA-Z and the space character.
-//Insert them into a hash table.
-//You can use a library for only the hash function.
-//The collision resolution scheme should be open addressing - quadratic.
-//Initially the table size is 31. The program should increase the table size and rehash at load factor of .5
-//At the end print the total number of collisions you get.
+    //Implement Hash table.
+    //Pick 20 random words. Each word must be of different lengths, maximum length 8 and minimum length 3.
+    //The words will be of letters a-zA-Z and the space character.
+    //Insert them into a hash table.
+    //You can use a library for only the hash function.
+    //The collision resolution scheme should be open addressing - quadratic.
+    //Initially the table size is 31. The program should increase the table size and rehash at load factor of .5
+    //At the end print the total number of collisions you get.
 //Submit your code.
 #include <cstdlib>
 #include <iostream>
