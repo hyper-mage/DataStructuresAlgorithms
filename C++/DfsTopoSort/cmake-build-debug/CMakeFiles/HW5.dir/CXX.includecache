@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/56kbps/Desktop/Spring2019stuff/CS 5343/HW/HW5/main.cpp
+vector
+-
+iostream
+-
+list
+-
+queue
+-
+limits.h
+-
+string
+-
+stack
+-
+
