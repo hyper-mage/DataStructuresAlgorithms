@@ -1,4 +1,5 @@
-The purpose of this assignment is to create a data structure (Singly Linked List) to traverse and sort. The sorting portion focuses on rearranging the pointers of each node rather than replacing its data.
+The purpose of this assignment is to create a data structure (Singly Linked List) to traverse and sort. 
+The sorting portion focuses on rearranging the pointers of each node rather than replacing its data.
     // 1. Traverse list
     // 2. Selection sort the list, changing node links but not node data
     // 3. Traverse again
